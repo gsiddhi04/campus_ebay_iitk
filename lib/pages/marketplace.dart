@@ -6,13 +6,13 @@ class MarketplacePage extends StatelessWidget {
       'title': 'Cooler',
       'description': 'Almost new, used for 2 months',
       'price': '₹2000',
-      'image': 'https://www.suryaelectronics.in/CommonImageHandler/ImageHandler.ashx?imagepath=~/img/Product/Main/BajajHomeappliancesAircooler7.jpg&width=1080'
+      'image': 'images/cooler.jpg'
     },
     {
       'title': 'Mattress',
       'description': 'Comfortable and clean',
       'price': '₹1500',
-      'image': 'https://5.imimg.com/data5/TX/IP/MY-50424484/single-bed-mattress.jpg'
+      'image': 'images/mattress.jpg'
     },
   ];
 

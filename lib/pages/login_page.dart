@@ -10,8 +10,6 @@ class _LoginPageState extends State<LoginPage> {
   final TextEditingController _passwordController = TextEditingController();
 
   void _login() {
-    // Normally, you would have authentication logic here.
-    // For this example, we'll just navigate to the home page.
     Navigator.pushReplacementNamed(context, '/home');
   }
 

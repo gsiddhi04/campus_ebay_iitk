@@ -78,7 +78,8 @@ class UserProfilePage extends StatelessWidget {
               ),
               SizedBox(height: 10),
               Text(
-                'Summary of buying and selling activities...', // Replace with actual summary
+                'Summary of buying and selling activities...', 
+                'No items found'
                 style: TextStyle(
                   fontSize: 16,
                   color: Colors.white,
